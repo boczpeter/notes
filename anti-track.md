@@ -55,7 +55,7 @@ Defaults settings are great, but it's recommended to enable your country/languag
 
 - Look for alternatives to tech giants' popular services. It diversifies your data patterns and you support alternative/open service providers.
 
-  - ~~Google Maps~~ &rarr; [Openstreetmap](https://www.openstreetmap.org/) (I particularly like [this one for touring/cycling](https://en.mapy.cz/turisticka?l=0))
+  - ~~Google Maps~~ &rarr; [Openstreetmap](https://www.openstreetmap.org/) (I particularly like [this one for touring/cycling](https://en.mapy.cz/turisticka?l=0)) for the browser, [OSMand](https://osmand.net/) for mobile.
   - ~~Google Search~~ &rarr; [Startpage](https://www.startpage.com), [Duckduckgo](https://duckduckgo.com/)
   - ~~Zoom~~, ~~Facetime~~, ~~Facebook Video~~ &rarr; [Jitsi](https://jitsi.org/) is a free, open-source, feature-rich, end-to-end encrypted, all-platform alternative to all the hyped video-conferencing software.
 
