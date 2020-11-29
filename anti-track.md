@@ -57,6 +57,7 @@ Defaults settings are great, but it's recommended to enable your country/languag
 
   - ~~Google Maps~~ &rarr; [Openstreetmap](https://www.openstreetmap.org/) (I particularly like [this one for touring/cycling](https://en.mapy.cz/turisticka?l=0)) for the browser, [OSMand](https://osmand.net/) for mobile.
   - ~~Google Search~~ &rarr; [Startpage](https://www.startpage.com), [Duckduckgo](https://duckduckgo.com/)
+  - ~~Gmail~~ &rarr; [Tutanota](https://www.tutanota.com) secure & ad-free mailbox
   - ~~Zoom~~, ~~Facetime~~, ~~Facebook Video~~ &rarr; [Jitsi](https://jitsi.org/) is a free, open-source, feature-rich, end-to-end encrypted, all-platform alternative to all the hyped video-conferencing software.
 
 - Social media
