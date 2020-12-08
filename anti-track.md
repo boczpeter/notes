@@ -47,10 +47,11 @@
 Don't just search "adblock" and install random hits; there may be malicious addons behind the term. If unsure, just install from the link [for Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) or [for Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm).
 Defaults settings are great, but it's recommended to enable your country/language's filter list and some social filter lists. Enable filter list auto-update if available.
 
-- Use custom dns server in your internet connection settings
+- _Advanced:_ Use custom dns server in your internet connection settings
 
-  - _Advanced:_ Put `1.1.1.1`, `9.9.9.9` IP addresses instead of the ones supplied by your internet service provider (ISP). Your ISP might track your site usage based on your dns queries. Often their servers are slower or unavailable, while [Cloudflare](https://1.1.1.1/), for example, has very fast, low latency availability and they pledge to respect your privacy.
+  - Open your internet connection settings and follow [Cloudflare's dns page](https://1.1.1.1/dns/) to set up a domain name service (DNS) alternative to the one provided by your internet service provider (ISP). Your ISP might track your site usage based on your dns queries. Often their servers are slower or unavailable, while [Cloudflare](https://1.1.1.1/dns/), for example, has very fast, low latency availability and they pledge to respect your privacy.
   - That said, be aware that your ISP can still watch your dns traffic, e.g. tracking which sites you visit (but not their content). To prevent this, you need secure dns service ([DoH](https://en.wikipedia.org/wiki/DNS_over_HTTPS) or [DoT](https://en.wikipedia.org/wiki/DNS_over_TLS)) supported by your browser or network.
+  - Instead of Cloudflare, you can use [Quad9](https://www.quad9.net/), another privacy-focused provider, or Google also has a [public DNS service](https://developers.google.com/speed/public-dns/docs/using).
   - _More advanced:_ install [Pi.hole](https://pi-hole.net/) on your local network, a network-wide adblocker. Can be set up as an [encrypted dns provider](https://docs.pi-hole.net/guides/dns-over-https/).
 
 - Look for alternatives to tech giants' popular services. It diversifies your data patterns and you support alternative/open service providers.
