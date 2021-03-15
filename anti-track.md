@@ -80,4 +80,5 @@ Defaults settings are great, but it's recommended to enable your country/languag
 ## Misc recommended resouces; See also:
 
 - [Password.link](https://password.link/)  Create a client-side encrypted one-time link to a secret. Safely send credentials, API keys and other secrets over the wire.
+- [Browserleaks](https://browserleaks.com/) browsing privacy and web browser fingerprinting
 
