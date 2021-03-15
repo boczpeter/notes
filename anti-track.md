@@ -60,7 +60,7 @@ Defaults settings are great, but it's recommended to enable your country/languag
   - ~~Google Search~~ &rarr; [Startpage](https://www.startpage.com), [Duckduckgo](https://duckduckgo.com/)
   - ~~Gmail~~ &rarr; [Tutanota](https://www.tutanota.com) secure & ad-free mailbox
   - ~~Zoom~~, ~~Facetime~~, ~~Facebook Video~~ &rarr; [Jitsi](https://jitsi.org/) is a free, open-source, feature-rich, end-to-end encrypted, all-platform alternative to all the hyped video-conferencing software.
-  - ~~Google Keep &amp; other Notes apps~~ &rarr; [Cryptee](https://crypt.ee) opensource markdown editor, file storage, all-device sync, [Standard Notes](https://standardnotes.org/) (basic, limited features on free plan)
+  - ~~Google Keep &amp; other Notes apps~~ &rarr; [Cryptee](https://crypt.ee) opensource markdown editor, file storage, all-device sync, [Standard Notes](https://standardnotes.org/) (basic, limited features on free plan), [Joplin](https://joplinapp.org/) markdown note &amp; to-do app
 
 - Social media
   - Do not disclose your phone number. It may be asked for 2FA, which should be rejected if alternatives are available. If you must make a phone number public, use an alternative one and keep your real one used for 2FA or account recovery private.
