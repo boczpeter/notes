@@ -76,3 +76,8 @@ Defaults settings are great, but it's recommended to enable your country/languag
 - Use services/features in mobile web browser rather than mobile app. Apps have more access rights to your personal data, while the browser is [sandboxed](https://en.wikipedia.org/wiki/Sandbox_(computer_security)), has limited access. Also, ad blocking normally works only in the browser, not in apps, unless you use pi.hole or some network-wide blocking mechanism. For instance, Facebook app has access to all your contacts if installed on your phone and cross-reference them with other users' data to target you, while the Facebook website does not.
 
 - Install [Firefox Mobile](https://www.mozilla.org/en-US/firefox/mobile/) with ublock-origin addon instead of factory browser.
+
+## Misc recommended resouces; See also:
+
+- [Password.link](https://password.link/)  Create a client-side encrypted one-time link to a secret. Safely send credentials, API keys and other secrets over the wire.
+
